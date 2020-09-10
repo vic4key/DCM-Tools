@@ -1,0 +1,3 @@
+[submodule "PyVutils"]
+	path = PyVutils
+	url = https://github.com/vic4key/PyVutils.git
